@@ -26,7 +26,7 @@ A beautiful Chrome extension that counts down to New Year 2027 with elegant desi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/new-year-countdown.git
+   git clone https://github.com/North7south/NewYearCountdown-Green.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
@@ -76,7 +76,7 @@ Read our full [Privacy Policy](PRIVACY.md)
 ## 📁 Project Structure
 
 ```
-new-year-countdown/
+NewYearCountdown-Green/
 ├── manifest.json          # Extension configuration
 ├── popup.html            # Main countdown interface
 ├── popup.js              # Countdown logic
@@ -127,12 +127,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Bug Reports
 
-Found a bug? Please open an issue on [GitHub Issues](https://github.com/yourusername/new-year-countdown/issues).
+Found a bug? Please open an issue on [GitHub Issues](https://github.com/North7south/NewYearCountdown-Green/issues).
 
 ## 📧 Contact
 
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **Email:** your-email@example.com
+- **GitHub:** [@North7south](https://github.com/North7south)
+- **Email:** north7hale@gmail.com
 
 ## ⭐ Show Your Support
 
