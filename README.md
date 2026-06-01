@@ -2,7 +2,8 @@
 
 A beautiful Chrome extension that counts down to New Year 2027 with elegant design and festive animations.
 
-New Year Countdown Timer chromewebstore link：https://chromewebstore.google.com/detail/new-year-countdown-timer/hpplkajfpiamobhhoaalekifghegnple
+New Year Countdown Timer chromewebstore link：
+https://chromewebstore.google.com/detail/new-year-countdown-timer/hpplkajfpiamobhhoaalekifghegnple
 
 ## ✨ Features
 
@@ -39,11 +40,6 @@ New Year Countdown Timer chromewebstore link：https://chromewebstore.google.com
 
 6. The extension icon will appear in your toolbar
 
-## 📸 Screenshots
-
-| Main Display | Features | Design |
-|-------------|----------|--------|
-| ![Screenshot 1](screenshots/promo_1.jpg) | ![Screenshot 2](screenshots/promo_2.jpg) | ![Screenshot 3](screenshots/promo_3.jpg) |
 
 ## 🎨 Design
 
